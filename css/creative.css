@@ -47,6 +47,13 @@ h6 {
   background-color: #1565C0 !important;
 }
 
+.bg-img {
+  background-image: url('../img/header.jpg');
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
 .bg-dark {
   background-color: #212529 !important;
 }
