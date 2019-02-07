@@ -334,3 +334,7 @@ header.masthead p {
     -webkit-box-shadow: 0 0 0 .2rem rgba(240, 95, 64, .5) !important;
     box-shadow: 0 0 0 .2rem rgba(240, 95, 64, .5) !important
 }
+
+.stylish-color-dark {
+    background-color: #3e4551 !important;
+  }
