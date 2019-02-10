@@ -54,6 +54,13 @@ h6 {
   background-size: cover; /* Resize the background image to cover the entire container */
 }
 
+.bg-img1 {
+  background-image: url('../img/office-1500461_1920.jpg');
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
 .bg-dark {
   background-color: #212529 !important;
 }
@@ -327,4 +334,8 @@ header.masthead p {
 
 .stylish-color-dark {
   background-color: #3e4551 !important;
+}
+
+footer {
+  color: #fff;
 }
